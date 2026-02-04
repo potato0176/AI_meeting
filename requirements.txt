@@ -1,0 +1,8 @@
+# 智慧會議記錄助手 - 必要套件
+# 使用方式：pip install -r requirements.txt
+
+langchain>=0.3.0
+langchain-openai>=0.2.0
+langgraph>=0.2.0
+grandalf>=0.8
+requests>=2.31.0
